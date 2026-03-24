@@ -194,4 +194,4 @@ feature/add-login → develop → main
 **CS - Security Scan** (`.github/workflows/cs.yml`)
 - Berjalan otomatis saat `push` atau `pull_request`
 - Menggunakan **Bandit** untuk scanning kerentanan keamanan pada kode Python
-- Melaporkan issue keamanan tingkat medium ke atas
+- Melaporkan issue keamanan tingkat medium ke atas.
