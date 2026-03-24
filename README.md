@@ -2,8 +2,8 @@
 
 RESTful API untuk manajemen tugas (To-Do) yang dibangun dengan Python Flask, Docker, dan GitHub Actions.
 
-![CI](https://github.com/230055Fawwaz/todo-api/actions/workflows/ci.yml/badge.svg)
-![CS](https://github.com/230055Fawwaz/todo-api/actions/workflows/cs.yml/badge.svg)
+![CI](https://github.com/230055Fawwaz/Tugas1_Praktikum_PPL1/actions/workflows/ci.yml/badge.svg)
+![CS](https://github.com/230055Fawwaz/Tugas1_Praktikum_PPL1/actions/workflows/cs.yml/badge.svg)
 
 ---
 
@@ -138,8 +138,8 @@ curl -X DELETE http://localhost:5000/todos/1
 
 **1. Clone repository**
 ```bash
-git clone https://github.com/230055Fawwaz/todo-api.git
-cd todo-api
+git clone https://github.com/230055Fawwaz/Tugas1_Praktikum_PPL1.git
+cd Tugas1_Praktikum_PPL1
 ```
 
 **2. Jalankan dengan docker-compose**
@@ -201,6 +201,6 @@ feature/add-login → develop → main
 Ganti `230055Fawwaz` dengan username GitHub kamu:
 
 ```markdown
-![CI](https://github.com/230055Fawwaz/todo-api/actions/workflows/ci.yml/badge.svg)
-![CS](https://github.com/230055Fawwaz/todo-api/actions/workflows/cs.yml/badge.svg)
+![CI](https://github.com/230055Fawwaz/Tugas1_Praktikum_PPL1/actions/workflows/ci.yml/badge.svg)
+![CS](https://github.com/230055Fawwaz/Tugas1_Praktikum_PPL1/actions/workflows/cs.yml/badge.svg)
 ```
