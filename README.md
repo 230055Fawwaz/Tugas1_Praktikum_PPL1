@@ -2,8 +2,8 @@
 
 RESTful API untuk manajemen tugas (To-Do) yang dibangun dengan Python Flask, Docker, dan GitHub Actions.
 
-![CI](https://github.com/<username>/todo-api/actions/workflows/ci.yml/badge.svg)
-![CS](https://github.com/<username>/todo-api/actions/workflows/cs.yml/badge.svg)
+![CI](https://github.com/230055Fawwaz/todo-api/actions/workflows/ci.yml/badge.svg)
+![CS](https://github.com/230055Fawwaz/todo-api/actions/workflows/cs.yml/badge.svg)
 
 ---
 
@@ -138,7 +138,7 @@ curl -X DELETE http://localhost:5000/todos/1
 
 **1. Clone repository**
 ```bash
-git clone https://github.com/<username>/todo-api.git
+git clone https://github.com/230055Fawwaz/todo-api.git
 cd todo-api
 ```
 
@@ -198,9 +198,9 @@ feature/add-login → develop → main
 
 ### Badge Status
 
-Ganti `<username>` dengan username GitHub kamu:
+Ganti `230055Fawwaz` dengan username GitHub kamu:
 
 ```markdown
-![CI](https://github.com/<username>/todo-api/actions/workflows/ci.yml/badge.svg)
-![CS](https://github.com/<username>/todo-api/actions/workflows/cs.yml/badge.svg)
+![CI](https://github.com/230055Fawwaz/todo-api/actions/workflows/ci.yml/badge.svg)
+![CS](https://github.com/230055Fawwaz/todo-api/actions/workflows/cs.yml/badge.svg)
 ```
