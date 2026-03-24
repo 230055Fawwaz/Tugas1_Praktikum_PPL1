@@ -25,3 +25,5 @@ jobs:
 
       - name: Run Bandit security scan
         run: bandit -r app/ -ll -ii
+
+        
